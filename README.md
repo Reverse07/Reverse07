@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DiegoArroyo">
+  <a href="https://github.com/Reverse07">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Engineering+Student;Aspiring+Full+Stack+Developer;Always+learning+new+things;Feel+free+to+look+around+%F0%9F%91%80;Reach+out+if+you+want+to+connect!+%F0%9F%92%AC&font=Fira+Code&center=true&width=500&height=45">
   </a>
 </p>
@@ -26,21 +26,6 @@
   <a href="mailto:tmldiego7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://www.codewars.com/users/TuUsuarioCodewars/badges/large" alt="Codewars Badge">
-</div>
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=tuUsuario&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-
-</div>
-
-
 </div>
 
 ---
@@ -118,14 +103,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=Reverse07&show_icons=true&locale=en&layout=compact&theme=radical)
 
 </div>
-
----
-
-### 🏆 Profile Trophies
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Reverse07&theme=onedark&no-frame=true&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
