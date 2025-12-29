@@ -36,77 +36,86 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-#### 🔧 Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=database&logoColor=white)
-
-#### 🖥️ Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-#### 🧪 Testing & Documentation
-![JUnit](https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-%2300C853.svg?style=for-the-badge&logo=java&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-
-#### 🔧 Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Bizagi Modeler](https://img.shields.io/badge/Bizagi%20Modeler-%23FF6600.svg?style=for-the-badge&logo=bizagi&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-%23049FD9.svg?style=for-the-badge&logo=cisco&logoColor=white)
-
----
-
-## 📊 Profile Statistics
-
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Reverse07&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+### Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,php,mysql" />
+  </a>
+</p>
+
+### Frameworks & Libraries
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,laravel,bootstrap,tailwind" />
+  </a>
+</p>
+
+### Testing & Documentation
+<p align="center">
+  <img src="https://img.shields.io/badge/JUnit-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
+  <img src="https://img.shields.io/badge/Mockito-%2300C853.svg?style=for-the-badge&logo=java&logoColor=white" alt="Mockito" />
+  <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Bizagi%20Modeler-%23FF6600.svg?style=for-the-badge&logo=bizagi&logoColor=white" alt="Bizagi Modeler" />
+</p>
+
+### Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+  </a>
+</p>
+
+### Tools & Platforms
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,idea,linux" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-### 💳 Github Profile Summary Card
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reverse07&theme=github_dark)
-
-</div>
-
----
-
-### ⏱ Streak Stats
-<div align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Reverse07&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
----
-
-### 📈 Activity Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Reverse07&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<details>
+  <summary>💳 <b>Profile Summary</b></summary><br/>
+  
+  <picture>
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reverse07&theme=github_dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reverse07&theme=default"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Reverse07&theme=github_dark" alt="Profile Summary" />
+  </picture>
+  
+</details>
 
 ---
 
-### 📊 Most Used Languages
+<details>
+  <summary>📈 <b>Activity Graph</b></summary><br/>
+  
+  <picture>
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Reverse07&theme=react-dark&hide_border=false&bg_color=1e2b3c&color=95ccff&line=95ccff&point=ffffff"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Reverse07&theme=github-light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Reverse07&theme=react-dark" alt="Activity Graph" />
+  </picture>
+  
+</details>
+
+---
+
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Reverse07&show_icons=true&locale=en&layout=compact&theme=radical)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" />
 </div>
